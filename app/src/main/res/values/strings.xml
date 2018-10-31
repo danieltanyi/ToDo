@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Monthly Shopping List</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_sort">sort list</string>
+    <string name="action_add">Add Item</string>
+    <string name="action_clear">Clear</string>
+
+
+</resources>
